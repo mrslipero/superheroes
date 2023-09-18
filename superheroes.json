@@ -1,0 +1,63 @@
+{
+    "equipo": "Los vengadores",
+    "Ciudad": "New York",
+    "fecha": 2086,
+    "secretBase": "Avengers",
+    "active": true,
+    "members": [
+        {
+            "name": "Iron Man",
+            "Edad": 26,
+            "secretIdentity": "Tony Stark",
+            "Superpoderes": [
+                "Volar",
+                "Reactor Arc",
+                "Blásters de Energía"
+            ]
+        },
+        {
+            "name": "Hulk",
+            "Edad": 31,
+            "secretIdentity": "Bruce Banner",
+            "Superpoderes": [
+                "Fuerza sobrehumana",
+                "Super salto",
+                "Radiación gamma"
+            ]
+        },
+        {
+            "name": "Deadpool",
+            "Edad": 34,
+            "secretIdentity": "Desconocida",
+            "Superpoderes": [
+                "Inmortal",
+                "Regeneración infinita",
+                "Resistencia",
+                "Agilidad",
+                "Manejo de armas"
+            ]
+        },
+        {
+            "name": "Thor",
+            "Edad": 1500,
+            "secretIdentity": "Thor Odinson",
+            "Superpoderes": [
+                "Control sobre el martillo Mjölnir",
+                "Fuerza sobrehumana",
+                "Manipulación de la tormenta",
+                "Inmortalidad (envejecimiento muy lento)"
+            ]
+        },
+        {
+            "name": "Black Widow",
+            "Edad": 35,
+            "secretIdentity": "Natasha Romanoff",
+            "Superpoderes": [
+                "Experta en combate cuerpo a cuerpo",
+                "Espionaje y sigilo",
+                "Artes marciales",
+                "Maestría en armas de fuego y armas blancas"
+            ]
+        }
+    ]
+}
